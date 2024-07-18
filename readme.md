@@ -1,6 +1,6 @@
 # A Space Invader Game Made in Racket(A Scheme Dialect)
 
-This is made for final project of How to Code: Simple Data. To run this, downloading Drracket from (the official website)[https://download.racket-lang.org/] is recommended.
+This is made for final project of How to Code: Simple Data. To run this, downloading Drracket from [the official website](https://download.racket-lang.org/) is recommended.
 
 ### Instructions to run the program
 
